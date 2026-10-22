@@ -25,3 +25,4 @@ This GitHub page is where I'll share my learning journey, personal projects, and
 ### How to reach me 
 
 jumorgado2006@gmail.com
+www.linkedin.com/in/júliavitellimorgado

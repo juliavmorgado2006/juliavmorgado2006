@@ -1,7 +1,7 @@
 ## Hi there, I am Júlia Morgado👋
 
 <!--
-**juliavmorgado2006/juliavmorgado2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**juliavmorgado2006/juliavmorgado2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # Applied and Computacional Mathematics undergraduate student at UNICAMP, Brazil 
 
 ### About Me
